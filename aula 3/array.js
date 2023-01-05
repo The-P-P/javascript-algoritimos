@@ -19,7 +19,6 @@ const listaLivros = [
         nome: "Elixir",
         preco: 46
     },
-
     {
         nome: "Python",
         preco: 30
@@ -46,4 +45,4 @@ const listaLivros = [
     }
 ]
 
-module.exports = {listaLivros}
+module.exports = listaLivros;
